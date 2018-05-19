@@ -1,7 +1,10 @@
 {
 	"blog-post": [
 		{
-			"blog-title": "hi"
+			"blog-title": "First Blog"
+		},
+		{
+			"blog-title": "Second Blog"
 		}
 	]
 }
