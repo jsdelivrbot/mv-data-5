@@ -7,10 +7,5 @@
 			"blog-title": "Second Blog"
 		}
 	],
-	"blog": [
-		{
-			"title": "Title",
-			"id": "title"
-		}
-	]
+	"blog": []
 }
