@@ -10,7 +10,7 @@
 	"blog": [
 		{
 			"title": "First",
-			"subtitle": "test",
+			"subtitle": "testtest",
 			"bg-image": "https://cdn.rawgit.com/efeichen/mv-data/bb0fa13569036c2bbdd787de9abae75d7aebe77b/images/vi-vim-cheat-sheet.gif",
 			"id": "first",
 			"content": "## hello\n\n* is this the power of markdown?\n\n```\nI think so\n```"
